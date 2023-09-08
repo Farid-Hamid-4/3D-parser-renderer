@@ -1,6 +1,6 @@
-# PPM Parser and Renderer
+# 3D Object Parser and Renderer
 
-A PPM parser written in C and Python script to run JavaScript code to render 3D image
+A 3D object parser in C and Python script to parse PPM files and transfer data to JavaScript, utilizing WebGL to render 3D object with textures, lighting effects, and material properties 
 
 ## Acknowledgements 
 University of Guelph CIS*2750 Software Systems Development & Integration project. 
